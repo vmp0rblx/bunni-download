@@ -1,6 +1,6 @@
 {
   "status": "up", 
-  "version": "2.2.5",
-  "roblox_version": "version-b8550645b8834e8a", 
-  "changelog": "[+] Fixed writefile issues caused by makefolder\n[+] Fixed Drawing's not rendering\n[+] Stability improved\n[+] Fixed a vulnerability\n[+] Added LIVE version check/n [NEW] Fixed isnetworkowner"
+  "version": "2.2.6",
+  "roblox_version": "version-3f74e22590714de4", 
+  "changelog": "[+] Updated to version-3f74e22590714de4"
 }
