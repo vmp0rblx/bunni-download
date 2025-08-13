@@ -2,5 +2,5 @@
   "status": "up", 
   "version": "2.2.7",
   "roblox_version": "version-ca90f2e615014a44", 
-  "changelog": "[+] Updated to version-ca90f2e615014a44\n[+] Rewrote Drawing library\n[+] Improved getconnectionsn[+] Improved restorefunction\n  [=] No more crashes & no performance loss\n[+] Fixed crashes caused by closure library\n[+] Fixed Injection timeout\n\n[=] Internal UI is back!\n[=] Internal security changes\n[=] New injector\n  [=] Could have bugs, please report."
+  "changelog": "[+] Updated to version-ca90f2e615014a44\n[+] Rewrote Drawing library\n[+] Improved getconnections\n  [=] No more crashes & no performance loss\n[+] Improved restorefunction\n[+] Fixed crashes caused by closure library\n[+] Fixed Injection timeout\n\n[=] Internal UI is back!\n[=] Internal security changes\n[=] New injector\n  [=] Could have bugs, please report\n  [=] Hi I newlined wrong so re-ping thx"
 }
