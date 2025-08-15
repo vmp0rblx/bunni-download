@@ -1,6 +1,6 @@
 {
   "status": "up", 
-  "version": "2.2.7",
-  "roblox_version": "version-ca90f2e615014a44", 
-  "changelog": "[+] Updated to version-ca90f2e615014a44\n[+] Rewrote Drawing library\n[+] Improved getconnections\n  [=] No more crashes & no performance loss\n[+] Improved restorefunction\n[+] Fixed crashes caused by closure library\n[+] Fixed Injection timeout\n\n[=] Internal UI is back!\n[=] Internal security changes\n[=] New injector\n  [=] Could have bugs, please report\n  [=] Hi I newlined wrong so re-ping thx"
+  "version": "2.2.8",
+  "roblox_version": "version-fe20d41d8fec4770", 
+  "changelog": "[+] Updated to version version-fe20d41d8fec4770\n  [=] Install from discord because my data is buns so the installer will NOT work!"
 }
