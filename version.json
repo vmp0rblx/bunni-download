@@ -1,6 +1,6 @@
 {
   "status": "up", 
-  "version": "2.3.0",
-  "roblox_version": "version-fe20d41d8fec4770", 
-  "changelog": "[*] General UI Fixes \n[*] Mapper stability \n[*] Fixed WebSocket crash on sUNC \n[+] Fixed next day ban bypasses"
+  "version": "2.3.1",
+  "roblox_version": "version-89b6c70d8f7f42ac", 
+  "changelog": "[*] Updated to version-89b6c70d8f7f42ac \n[*] Fixed some authentication issues \n[*] Fixed some GetConnections issues \n[+] Next day bans very possible, fixing as this is sent out and will be fixed soon."
 }
