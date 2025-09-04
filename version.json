@@ -1,6 +1,6 @@
 {
   "status": "up", 
-  "version": "2.3.1",
-  "roblox_version": "version-89b6c70d8f7f42ac", 
-  "changelog": "[*] Updated to version-89b6c70d8f7f42ac \n[*] Fixed some authentication issues \n[*] Fixed some GetConnections issues \n[+] Next day bans very possible, fixing as this is sent out and will be fixed soon."
+  "version": "2.3.2",
+  "roblox_version": "version-c1ac69007bdc4e48", 
+  "changelog": "[*] Updated to version-c1ac69007bdc4e48 \n[*] Fixed detections (next day) \n[*] Fixed some random functions \n[+] sUNC will crash, priority on BETA."
 }
