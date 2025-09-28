@@ -1,6 +1,6 @@
 {
   "status": "up", 
-  "version": "2.3.4",
-  "roblox_version": "version-8afc5a7d5e894d22", 
+  "version": "2.3.5",
+  "roblox_version": "version-f6cd26d0e71b47c9", 
   "changelog": "[*] sUNC 98%\n[*] Rewrote many different functions\n[*] UPDATED FOR version-f6cd26d0e71b47c9\n\n[+] This build could possibly be detected, we tried implementing more fixes, but until the rewrite, dont expect crazy much.\n[+] Drawing library is a bit buggy with this build, we will push a hot fix soon."
 }
