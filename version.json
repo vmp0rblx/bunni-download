@@ -2,5 +2,5 @@
   "status": "up", 
   "version": "2.3.4",
   "roblox_version": "version-8afc5a7d5e894d22", 
-  "changelog": "[*] sUNC crash fixed\n[*] Drawing lib crash, Websocket crash, replicatesignal crash, and more crashes fixed. \n[+] This build is detected and is NOT the rewrite, this is an improved and mostly fixed build of the existing bunni! 97% sUNC, rewrite hopefully soon! All rust cuz were tuff! Repushing endpoint since i misphrased things (fud btw thx)"
+  "changelog": "[*] sUNC 98%\n[*] Rewrote many different functions\n[*] UPDATED FOR version-f6cd26d0e71b47c9\n\n[+] This build could possibly be detected, we tried implementing more fixes, but until the rewrite, dont expect crazy much.\n[+] Drawing library is a bit buggy with this build, we will push a hot fix soon."
 }
