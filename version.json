@@ -1,6 +1,6 @@
 {
   "status": "up", 
-  "version": "2.3.7",
+  "version": "2.3.7 HOTFIX",
   "roblox_version": "version-7a4a5d7d1fb3449f", 
-  "changelog": "[*] sUNC 98%\n[*] Fixed getconnections returning false for LuaConnection\n[*] UPDATED FOR version-7a4a5d7d1fb3449f\n\n[+] This build could possibly be detected.\n"
+  "changelog": "[*] sUNC 98%\n[*] Fixed \"Roblox has timed out. Try restarting\"\n[*] Fixed setscriptable failing UNC\n\n[+] This build could possibly be detected.\n"
 }
