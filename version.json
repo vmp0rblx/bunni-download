@@ -1,6 +1,6 @@
 {
   "status": "up", 
-  "version": "2.3.8 HOTFIX 1",
+  "version": "2.3.8 HOTFIX 2",
   "roblox_version": "version-4aeb17bd13994560", 
-  "changelog": "[*] sUNC 96%\n[*] Fixed \"Roblox encountered an unexpected error.\"\n\n[+] This build bypasses client modification but we still recommend using an alt."
+  "changelog": "[*] sUNC 97%\n[*] Fixed getscriptclosure.\"\n\n[+] This build bypasses client modification but we still recommend using an alt."
 }
