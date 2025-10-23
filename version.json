@@ -1,6 +1,6 @@
 {
   "status": "up", 
-  "version": "2.3.7 HOTFIX",
-  "roblox_version": "version-7a4a5d7d1fb3449f", 
-  "changelog": "[*] sUNC 98%\n[*] Fixed \"Roblox has timed out. Try restarting\"\n[*] Fixed setscriptable failing UNC\n\n[+] This build could possibly be detected.\n"
+  "version": "2.3.8",
+  "roblox_version": "version-4aeb17bd13994560", 
+  "changelog": "[*] sUNC 96%\n[*] MUCH faster injection\n\n[+] This build is probably detected, please alt."
 }
