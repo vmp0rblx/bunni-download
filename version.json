@@ -1,6 +1,6 @@
 {
   "status": "up", 
-  "version": "2.3.8",
+  "version": "2.3.8 HOTFIX 1",
   "roblox_version": "version-4aeb17bd13994560", 
-  "changelog": "[*] sUNC 96%\n[*] MUCH faster injection\n\n[+] This build is probably detected, please alt."
+  "changelog": "[*] sUNC 96%\n[*] Fixed \"Roblox encountered an unexpected error.\"\n\n[+] This build bypasses client modification but we still recommend using an alt."
 }
