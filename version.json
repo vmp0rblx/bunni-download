@@ -1,6 +1,6 @@
 {
   "status": "up", 
-  "version": "2.4.0",
+  "version": "2.4.0 HOTFIX",
   "roblox_version": "version-f6dd34ecac7b4642", 
-  "changelog": "[*] sUNC 98%\n[!] Roblox made updating a pain in the ass.\n\n[+] This build is most likely undetected, IDK"
+  "changelog": "[*] sUNC 100%\n[+] Fixed getconnections"
 }
