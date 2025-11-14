@@ -1,6 +1,6 @@
 {
-  "status": "up", 
-  "version": "2.4.0 HOTFIX",
-  "roblox_version": "version-f6dd34ecac7b4642", 
-  "changelog": "[*] sUNC 100%\n[+] Fixed getconnections"
+  "status": "up",
+  "version": "2.4.1 R1",
+  "roblox_version": "version-b7e223555d904550",
+  "changelog": "[+] Updated for version-b7e223555d904550\n\n[!] might be dtc I haven't tested"
 }
