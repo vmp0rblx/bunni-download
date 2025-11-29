@@ -1,6 +1,6 @@
 {
   "status": "up",
-  "version": "2.4.3 R1",
+  "version": "2.4.3 R2",
   "roblox_version": "version-e380c8edc8f6477c",
-  "changelog": "[!] sUNC 98%, fireclickdetector bug\n[+] Updated for version-e380c8edc8f6477c\n\n[!] might be dtc I haven't tested"
+  "changelog": "[*] 100% sUNC\n[+] Fixed getconnections bug that caused fireclickdetector to fail sUNC\n[+] Fixed delay crash\n[+] Injector stability\n[+] UI now shows the error messages instead of just codes\n\n[!] Might be detected, I've not tested"
 }
