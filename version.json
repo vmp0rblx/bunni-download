@@ -1,6 +1,6 @@
 {
   "status": "up",
-  "version": "2.4.3 R2",
+  "version": "2.4.3 R3",
   "roblox_version": "version-e380c8edc8f6477c",
-  "changelog": "[*] 100% sUNC\n[+] Fixed getconnections bug that caused fireclickdetector to fail sUNC\n[+] Fixed delay crash\n[+] Injector stability\n[+] UI now shows the error messages instead of just codes\n\n[!] Might be detected, I've not tested"
+  "changelog": "BUNNI MEGA HOTFIX\n\n\nActorlib\n- [+] Added `getactorfromthread`\n- [-] Fixed `getactorthreads`\n- [-] Fixed `checkparallel`\n- [-] Fixed `getactors` crashing Cobalt on some games\n- [-] Fixed random Cobalt crashes related to actors\n\nDrawinglib\n- [-] Fixed a `cleardrawcache` crash\n\nSignalslib\n- [-] Fixed `getconnections` bug that caused Cobalt to spam "attempt to index userdata with ForeignState"\n- [+] `getconnections` is now 3 times faster\n\nTeleport Handler\n- [!] Completely rewritten for much better speed and stability\n- [+] `Bunni` now initializes before the Loading menu and `ReplicatedFirst`\n\n[!] Might be detected, I've not tested"
 }
