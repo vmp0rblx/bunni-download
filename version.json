@@ -1,6 +1,6 @@
 {
   "status": "up",
   "version": "2.4.4 R1",
-  "roblox_version": "version-e380c8edc8f6477c",
-  "changelog": "BUNNI MEGA HOTFIX\n\n\nActorlib\n- [+] Added `getactorfromthread`\n- [-] Fixed `getactorthreads`\n- [-] Fixed `checkparallel`\n- [-] Fixed `getactors` crashing Cobalt on some games\n- [-] Fixed random Cobalt crashes related to actors\n\nDrawinglib\n- [-] Fixed a `cleardrawcache` crash\n\nSignalslib\n- [-] Fixed `getconnections` bug that caused Cobalt to spam "attempt to index userdata with ForeignState"\n- [+] `getconnections` is now 3 times faster\n\nTeleport Handler\n- [!] Completely rewritten for much better speed and stability\n- [+] `Bunni` now initializes before the Loading menu and `ReplicatedFirst`\n\n[!] Might be detected, I've not tested"
+  "roblox_version": "version-5b077c09380f4fe6",
+  "changelog": "BUNNI UPDATE\n\nDrawinglib\n- [!] Rendering temporarily disabled\n\nInjector\n- [!] Complete injector overhaul\n- [+] Approximately 10x improvement in speed\n- [+] Fully usermode, unlike competitors\n\nDetection Status\n- [!] Current detection status is unknown"
 }
