@@ -1,6 +1,6 @@
 {
   "status": "up",
-  "version": "2.4.4 R2",
-  "roblox_version": "version-5b077c09380f4fe6",
-  "changelog": "BUNNI HOTFIX 2.4.4 R2\n\nDrawing lib\n- [+] Re-enabled rendering\n\nMisc Lib\n- [-] Fixed `setfflag` and `getfflag` not doing anything\n- [-] Fixed fast flag tamper detection issues\n\nScripts Lib\n- [-] Fixed `getsenv`, `getscripthash`, `getthreadfromscript`, `getscriptclosure`, and `decompile` falsely erroring with \"script with RunContext set to client expected\" in some cases\n- [-] Fixed `getscriptclosure` detection that could cause a client modification ban\n\nActor Lib\n- [-] Fixed `runonactor` not working at all & crashing\n\nReflection Lib\n- [-] Fixed `gethiddenproperty` not working for certain property types\n\nTeleport Handler\n- [-] Fixed autoexec sometimes not running\n- [-] Fixed client staying active in background after closing, causing UI to show \"Already Injected!\"\n\nDetection Status\n- [!] Current detection status is unknown"
+  "version": "2.4.5 R1",
+  "roblox_version": "version-f8f53a67efca4c34",
+  "changelog": "BUNNI UPDATE\n\nBump\n- [+] Updated for version-f8f53a67efca4c34\n\nDetection Status\n- [!] Current detection status is unknown"
 }
