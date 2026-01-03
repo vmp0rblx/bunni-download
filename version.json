@@ -1,6 +1,6 @@
 {
   "status": "up",
-  "version": "2.4.5 R1",
+  "version": "2.4.5 R1 HOTFIX",
   "roblox_version": "version-f8f53a67efca4c34",
-  "changelog": "BUNNI UPDATE\n\nBump\n- [+] Updated for version-f8f53a67efca4c34\n\nDetection Status\n- [!] Current detection status is unknown"
+  "changelog": "BUNNI UPDATE\n\nInjector\n- [+] Fixed false version check error\n- [+] Fixed ghost process preventing injection\n- [+] Fixed incompatibility with unicode paths\n\nDetection Status\n- [+] Bunni bypasses client modification checks"
 }
